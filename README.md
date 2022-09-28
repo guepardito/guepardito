@@ -10,12 +10,12 @@
 
 <p align="center">
 
-<a href="https://github.com/guepardeon/guepardeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guepardeon&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&line_height=32" alt="guepardeon's GitHub Stats" />
+<a href="https://github.com/guepardito/guepardito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guepardito&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&line_height=32" alt="guepardeon's GitHub Stats" />
 </a>
 
-<a href="https://github.com/guepardeon/guepardeon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guepardeon&show_icons=true&theme=tokyonight&langs_count=3&layout=default&hide_border=false" />
+<a href="https://github.com/guepardito/guepardito">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guepardito&show_icons=true&theme=tokyonight&langs_count=3&layout=default&hide_border=false" />
 </a>
 
 </p>
