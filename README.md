@@ -6,6 +6,14 @@
     <a href="https://github.com/guepardito"><img src="https://img.shields.io/github/followers/guepardito?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a1a1a&color=bf91f3"></a>
 </p>
 
+---
+
+## Mis Tecnologias:
+
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 📫 How to reach me: You can contact me on twitter [@guepardeon](https://twitter.com/guepardeon).
 
 <p align="center">
