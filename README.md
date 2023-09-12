@@ -14,11 +14,16 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
-📫 How to reach me: You can contact me on twitter [@guepardeon](https://twitter.com/guepardeon).
+---
+
+📫 Puedes contactarme via Twitter: [@guepardeon](https://twitter.com/guepardeon).  
+
+
 
 <p align="center">
+## Mis estadisticas de github:
 
-<a href="https://github.com/guepardito/guepardito">
+<a href="https://github.com/guepardito/guepardito">      
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guepardito&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&line_height=32" alt="guepardeon's GitHub Stats" />
 </a>
 
