@@ -18,11 +18,11 @@
 
 📫 Puedes contactarme via Twitter: [@guepardeon](https://twitter.com/guepardeon).  
 
+---
 
+## Mis estadisticas de github:
 
 <p align="center">
-## Mis estadisticas de github: 
-
 
 <a href="https://github.com/guepardito/guepardito">      
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guepardito&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&line_height=32" alt="guepardeon's GitHub Stats" />
