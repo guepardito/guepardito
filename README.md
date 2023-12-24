@@ -8,7 +8,7 @@ I am very passionate about 💻 programming and 🔒 cybersecurity
 
 *   🌍  I'm based in Spain
 *   ✉️  You can contact me at [rafagi04@outlook.es](mailto:rafagi04@outlook.es)
-*   🧠  I'm learning C++
+*   🧠  Currently interested in Minecraft modding
 *   🤝  I'm open to collaborating on other projects
 *   ⚡  I love cats!
 ### Skills 
